@@ -40,7 +40,7 @@ Certifique-se de ter o [Bun](https://bun.sh/) instalado na sua máquina.
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-seu-repositorio>
+   git clone (https://github.com/jcarett/Dashboard-Climatico)
    cd BREEZE-BITES-MAIN
    ```
 
